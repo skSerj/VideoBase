@@ -1,6 +1,6 @@
 package com.videobase.network.model
 
-data class RequestMovieModel(
+data class ShowsModel(
     var id: Int,
     var url: String,
     var name: String,
